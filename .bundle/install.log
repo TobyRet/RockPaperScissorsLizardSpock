@@ -5,3 +5,16 @@ I, [2014-04-01T18:46:03.389876 #3645]  INFO -- : 0:  shotgun (0.9) from /Users/t
 I, [2014-04-01T18:46:03.390306 #3645]  INFO -- : 0:  tilt (1.4.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
 I, [2014-04-01T18:46:03.390679 #3645]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-04-01T18:46:03.391027 #3645]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-04-01T19:07:56.360034 #3832]  INFO -- : 0:  rack (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-01T19:07:56.360505 #3832]  INFO -- : 0:  rack-protection (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-01T19:07:56.360804 #3832]  INFO -- : 0:  shotgun (0.9) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-04-01T19:07:56.361107 #3832]  INFO -- : 0:  tilt (1.4.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-01T19:07:56.361406 #3832]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-01T19:07:56.361749 #3832]  INFO -- : 0:  sinatra-partial (0.4.0) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-partial-0.4.0.gemspec
+I, [2014-04-01T19:07:56.362010 #3832]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-04-01T19:08:52.151616 #3846]  INFO -- : 0:  rack (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-01T19:08:52.151998 #3846]  INFO -- : 0:  rack-protection (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-04-01T19:08:52.152307 #3846]  INFO -- : 0:  shotgun (0.9) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-04-01T19:08:52.152605 #3846]  INFO -- : 0:  tilt (1.4.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-04-01T19:08:52.152932 #3846]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-04-01T19:08:52.153213 #3846]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

@@ -1,5 +1,6 @@
 require 'sinatra'
-require_relative './lib/RockPaperScissor.js'
+
+set :partial_template_engine, :erb
 
 get '/' do
   erb :index
