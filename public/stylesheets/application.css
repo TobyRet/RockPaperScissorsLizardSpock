@@ -70,7 +70,33 @@ h1 {
 }
 
 #rock:hover, #paper:hover, #scissors:hover, #lizard:hover, #spock:hover {
-	background: black;
+	background: none;
+	-moz-background-size:100% 100%;
+	-webkit-background-size:100% 100%;
+	background-size: auto 100%;
+	color: rgba(0, 0, 0, 0);
+	transition-duration: 1s;
+	transition-timing-function:linear;
+}
+
+#paper:hover {
+	background-image: url('../images/paper_bag_cat.jpg');
+}
+
+#spock:hover {
+	background-image: url('https://31.media.tumblr.com/59c22ebddcaa4321b3d3a7c34500fde1/tumblr_inline_myw771fI3F1s6iac7.gif');
+}
+
+#lizard:hover {
+	background-image: url('../images/cat-lizard.jpg');
+}
+
+#scissors:hover {
+	background-image: url('../images/Freddy_Krueger.jpg');
+}
+
+#rock:hover {
+	background-image: url('http://media.heavy.com/media/2013/04/the-people-s-eyebrow-o.gif');
 }
 
 #results {
